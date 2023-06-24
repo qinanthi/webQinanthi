@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(181, 185, 184);
+        width: 60%;
+        height: 60vh;
+        background-position: center;
+        background-repeat: repeat;
+        background-size: cover;
+    }
